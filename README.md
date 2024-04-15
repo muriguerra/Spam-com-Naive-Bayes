@@ -1,7 +1,7 @@
 # Detecção de Spam com Naive Bayes
 
 ## **Introdução:** 
-No mundo digital de hoje, e-mails e mensagens de texto são essenciais para comunicação pessoal e profissional. Contudo, essa conveniência é frequentemente prejudicada pela presença de 'spam', mensagens não solicitadas que podem ser irritantes e até perigosas. Neste projeto, desenvolvemos um modelo de Machine Learning baseado no algoritmo Naive Bayes para classificar mensagens como 'spam' ou 'ham' (não spam)
+No mundo digital de hoje, e-mails e mensagens de texto são essenciais para comunicação pessoal e profissional. Contudo, essa conveniência é frequentemente prejudicada pela presença de 'spam', mensagens não solicitadas que podem ser irritantes e até perigosas. Neste projeto, utilizarei um modelo de Machine Learning baseado no algoritmo Naive Bayes para classificar mensagens como 'spam' ou 'ham' (não spam)
 
 ## 1. **Importação de Bibliotecas e Dados:** 
 Inicialmente, importei as bibliotecas necessárias para o projeto e carreguei o arquivo contendo uma coleção de mensagens SMS, cada uma rotulada como 'spam' ou 'ham' (não spam).
